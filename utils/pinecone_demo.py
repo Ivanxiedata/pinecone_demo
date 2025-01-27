@@ -7,7 +7,6 @@ from dotenv import load_dotenv
 from loguru import logger
 
 
-
 class PineconeDemo:
     load_dotenv()
 
