@@ -1,1 +1,4 @@
-.env
+mains/.env
+.idea
+.idea/vcs.xml
+

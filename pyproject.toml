@@ -6,11 +6,12 @@ authors = ["Ivanxiedata <ivanxiedata@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.10"
+python = "^3.9"
 pinecone-client = "^5.0.1"
 python-dotenv = "^1.0.1"
 sentence-transformers = "^3.3.1"
 loguru = "^0.7.3"
+pyspark = "^3.5.4"
 
 
 [build-system]
